@@ -1,8 +1,8 @@
 import MainPage  from 'pages/MainPage'
-import { Box } from '@chakra-ui/react'
+import { Box, Button } from '@chakra-ui/react'
 
 
-export default function Trains() { 
+export default function Trains() {
 
 
 
@@ -14,7 +14,7 @@ export default function Trains() {
             <MainPage children={<>
 
 
-                Preparing Train Page
+                <Button variant={"typeBlueSm"}>Count </Button>
 
 
 
