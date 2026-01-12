@@ -5,3 +5,7 @@
 ```sh
   # npm start
 ```
+
+```sh
+  http://localhost:3000/
+```
